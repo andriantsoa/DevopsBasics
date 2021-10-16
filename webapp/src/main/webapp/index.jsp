@@ -96,14 +96,13 @@
         <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
         <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-12">
         <h1> Déploiement automatisé avec Jenkins Ansible Docker Tomcat</h1>
-        <h2> Nous sommes heureux de vous annoncer la bonne nouvelle qu'un première version de l'application est disponible suite à la mise en place des processuce CI/CD</h2>
-        <h2> Nous vous souhaitons une très bonne journée.</h2>
-        <h2>Cordialement</h2>
-        <h2>Andriantsoa R. #Believe</h2>
+        <p> Nous sommes heureux de vous annoncer la bonne nouvelle qu'un première version de l'application est disponible suite à la mise en place des processuce CI/CD</p>
+        <p> Nous vous souhaitons une très bonne journée.</p>
+        <p>Cordialement</p>
         <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-        <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+        <p><a class="btn btn-secondary" href="#" role="button">Andriantsoa R. &raquo;</a></p>
       </div>
     </div>
 
